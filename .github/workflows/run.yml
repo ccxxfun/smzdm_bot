@@ -3,7 +3,6 @@ name: "SMZDM Check-in Bot"
 on:
   workflow_dispatch:
 
-
  schedule:
    - cron: "22 12 * * *"
 
