@@ -8,8 +8,8 @@ on:
       - completed
 
   # Uncomment below to schedule your job
-  #     schedule:
-  #   - cron: "12 13 * * *"
+       schedule:
+     - cron: "22 3 * * *"
 
 jobs:
   container-test-job:
